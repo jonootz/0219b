@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="true"
+  ProjectName="17"
+  ProjectFolder="C:\Users\jharkins\Desktop\Tests\17\"
+  AutoSync="false"
+  SourceFolders="file:///Y:/98971/HTML Files"
+  ImportResources="false"
+  ImportResourcesLocation="NoImport"
+  ImportTopics="content"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2015-02-19T16:06:07.0043857-08:00"
+  ImportTopicsLocation="Content/">
+  <Files>
+    <Url
+      Source="file:///Y:/98971/HTML Files"
+      AbsoluteSource="file:///Y:/98971/HTML Files" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/HTML Files/Getting Started.htm"
+      TimeStamp="2/19/2015 4:05:58 PM" />
+    <Url
+      Source="../../Content/HTML Files/Lists.htm"
+      TimeStamp="2/19/2015 4:05:58 PM" />
+    <Url
+      Source="../TOCs/HTML Files.fltoc"
+      TimeStamp="2/19/2015 4:06:05 PM" />
+  </GeneratedFiles>
+</HtmlImport>
